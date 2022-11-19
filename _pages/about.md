@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍🎓 About Me
 I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering. My research interest includes **Internet of things, network security and machine learning**, and I have published my works in *IEEE Sens.J. and IEEE IoT J., etc.* in related areas. 
-
 
 # 🔥 Recent News
 - *2022.08*: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
@@ -49,6 +49,9 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 - *2023.06 - now*, PhD, **The Chinese University of Hong Kong**, in Electronic Engineering.
 - *2019.09 - 2023.06*, BEng, **University of Electrronic and Technology of China**, in Optoelectronic Science and Engineering.
 
-
+# 💬 Invited Talks
+- *2022.10*, The 6th students developing conference in UESTC.
+- *2022.04*, UESTC students share meeting on machine learning.
+ 
 # 💻 Internships
 - *2020.06 - 2020.08*, **Big Data in Clouds**, Guiyang, China.
