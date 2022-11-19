@@ -20,7 +20,8 @@ redirect_from:
 I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering. My research interest includes **Internet of things, network security and machine learning**, and I have published my works in *IEEE Sens.J. and IEEE IoT J., etc.* in related areas. 
 
 
-# 🔥 News
+# 🔥 Recent News
+- *2022.08*: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
 - *2022.07*: 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
 - *2022.02*: 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens.J.(IF=4.536).*
 
@@ -36,7 +37,7 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
 - The detection accuracy and the false alarm rate are much lower than other effective methods.
-- We also reduce the computation complexity to $$O(n)$$.
+- We also reduced the computation complexity to $$O(n)$$.
 </div></div>
 
 # 🎖 Honors and Awards
