@@ -26,7 +26,7 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen.J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)
