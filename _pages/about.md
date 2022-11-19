@@ -41,9 +41,14 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 </div></div>
 
 # 🎖 Honors and Awards
+- 2022.11: **2023 UESTC Excellent Graduate Student (Top 5%).** 
+- 2022.10: **UESTC Outstanding Students Candidate (Top 1%).**
+- 2022.09: **UESTC Honor Research Award.**
 - 2022.02: **World Mathematical Contest in Modeling, Mertorious Winner Award.**
+- 2022.01: **Assigned as 'IEEE Student Member'.**
 - 2021.09: **Chinese Mathcup Modeling Contest, First Prize.**
 - 2021.12: **Chinese College Students Math Contest, First Prize.**
+- 2021.10: **Outstanding Students Scholarship in UESTC (Top 10%).**
 
 # 📖 Educations
 - 2023.06 - now :  **The Chinese University of Hong Kong**, PhD in Electronic Engineering.
