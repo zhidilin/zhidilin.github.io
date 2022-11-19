@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. candidate of The Chinese University of Hong Kong, Shenzhen in electronic engineering. My research interest includes Internet of things, network security and machine learning, and I have published my works in IEEE Sens.J. and IEEE IoT J., etc. in related areas. 
+I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering. My research interest includes **Internet of things, network security and machine learning**, and I have published my works in *IEEE Sens.J. and IEEE IoT J., etc.* in related areas. 
 
 
 # 🔥 News
-- *2022.07*: 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to IEEE IoT J.(IF=10.238).
-- *2022.02*: 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in IEEE Sens.J.(IF=4.536).
+- *2022.07*: 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
+- *2022.02*: 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens.J.(IF=4.536).*
 
 # 📝 Publications 
 
@@ -38,15 +38,16 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 - The detection accuracy and the false alarm rate are much lower than other effective methods.
 - We also reduce the computation complexity to $$O(n)$$.
 </div></div>
+
 # 🎖 Honors and Awards
-- *2022.02* 2022 World Mathematical Contest in Modeling, Mertorious Winner Award.
-- *2021.09* 2021 Chinese Mathcup Modeling Contest, First Prize.
-- *2021.12* 2021 Chinese College Students Math Contest, First Prize.
+- *2022.02* **World Mathematical Contest in Modeling, Mertorious Winner Award.**
+- *2021.09* **Chinese Mathcup Modeling Contest, First Prize.**
+- *2021.12* **Chinese College Students Math Contest, First Prize.**
 
 # 📖 Educations
-- *2023.06 - now*, Ph.D., The Chinese University of Hong Kong, Electronic Engineering.
-- *2019.09 - 2023.06*, B.Eng., University of Electrronic and Technology of China, Optoelectronic Science and Engineering.
+- *2023.06 - now*, PhD, **The Chinese University of Hong Kong**, in Electronic Engineering.
+- *2019.09 - 2023.06*, BEng, **University of Electrronic and Technology of China**, in Optoelectronic Science and Engineering.
 
 
 # 💻 Internships
-- *2020.06 - 2020.08*, Big Data in Clouds, Guiyang, China.
+- *2020.06 - 2020.08*, **Big Data in Clouds**, Guiyang, China.
