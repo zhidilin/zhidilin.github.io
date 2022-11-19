@@ -35,8 +35,9 @@ I received the B.Eng degree in optoelectronic information science from the Unive
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
-
-
+- The detection accuracy and the false alarm rate are much lower than other effective methods.
+- We also reduce the computation complexity to $$O(n)$$.
+</div></div>
 # 🎖 Honors and Awards
 - *2022.02* 2022 World Mathematical Contest in Modeling, Mertorious Winner Award.
 - *2021.09* 2021 Chinese Mathcup Modeling Contest, First Prize.
