@@ -26,6 +26,7 @@ redirect_from:
 - 2022.08: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
 - 2022.07: 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
 - 2022.04: 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens.J.(IF=4.536).*
+- 2020/09: Participated in **the State Key Laboratory of Electronic Thin Films and Integrated Devices** in UESTC, supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
 
 # 📝 Publications 
 
