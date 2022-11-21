@@ -19,14 +19,14 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 + I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
-+ My research interest includes Internet of things, network security, wireless localization and machine learning, and I have published my works in *IEEE Sens.J. and IEEE IoT J., etc.* in related areas. 
++ My research interest includes **Internet of things, network security, wireless localization and machine learning,** and I have published my works in  **IEEE Sens. J. and IEEE IoT J.** in related areas. 
 
 # 🔥 Recent News
 - 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
 - 2022.08: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
-- 2022.07: Paper titled 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
-- 2022.04: Paper titled 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens.J.(IF=4.536).*
-- 2020.09: Participated in **the State Key Laboratory of Electronic Thin Films and Integrated Devices** in UESTC, supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
+- 2022.07: Paper entitled 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
+- 2022.04: Paper entitled 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens. J.(IF=4.536).*
+- 2020.09: Joined **the State Key Laboratory of Electronic Thin Films and Integrated Devices** in UESTC, supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
 
 # 📝 Publications 
 
