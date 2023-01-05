@@ -22,6 +22,7 @@ redirect_from:
 + My research interest includes **Internet of things, network security, wireless localization and machine learning,** and I have published my works in  **IEEE Sens. J. and IEEE IoT J.** in related areas. 
 
 # 🔥 Recent News
+- 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
 - 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
 - 2022.08: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
 - 2022.07: Paper entitled 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
@@ -44,10 +45,11 @@ redirect_from:
 </div></div>
 
 # 🎖 Honors and Awards
+- 2023.01: **2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), Second Prize.**
 - 2022.11: **2023 UESTC Excellent Graduates (Top 5%).** 
 - 2022.10: **UESTC Outstanding Student Candidates (Top 1%).**
 - 2022.09: **UESTC Honor Research Award.**
-- 2022.02: **World Mathematical Contest in Modeling, Mertorious Winner Award.**
+- 2022.02: **World Mathematical Contest in Modeling (MCM), Mertorious Winner Award.**
 - 2022.01: **Assigned as 'IEEE Student Member'.**
 - 2021.09: **Chinese Mathcup Modeling Contest, First Prize.**
 - 2021.12: **Chinese College Students Math Contest, First Prize.**
