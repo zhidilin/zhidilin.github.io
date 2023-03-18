@@ -20,6 +20,7 @@ redirect_from:
 # 🧑‍🎓 About Me
 + I received the B.Eng degree in optoelectronic information science from [University of Electronic Science and Technology of China (UESTC)](uestc.edu.cn) in 2023. Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
 + My research interests include Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
+
 # 🔥 Recent News
 - 2023.03: Joined the [BLSP Group](https://blsp-group.github.io/) led by [Prof. Feng Yin](sse.cuhk.edu.cn/faculty/yinfeng).
 - 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
