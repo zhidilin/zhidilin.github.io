@@ -325,3 +325,7 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+body {
+  font-family: "Times New Roman", sans-serif;
+}
