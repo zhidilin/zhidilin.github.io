@@ -24,7 +24,7 @@ redirect_from:
 
 ## Miscellanies
 - <b>Languages</b> -- Mandarin (native), English (fluent), Hokkien (native)  
-- <b>Sports</b> -- Badminton, Swimming  
+- <b>Sports</b> -- Badminton 🏸, Swimming 🏊‍♂️, ... 
 - <b>Leadership/Community activities</b>  
   * Residential Tutor, [Diligentia College](https://diligentia.cuhk.edu.cn/en/teacher-search?keywords=&alphabet=All&category=All&academic=All&class_type=All&tag=All&floor=All&page=2), CUHK-Shenzhen, China.
 
@@ -36,7 +36,9 @@ redirect_from:
 - 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
 - 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
-# 📝 Publications 
+# 💻 Projects
+
+# 📚 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +65,7 @@ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis
 
 
 ## Conference
-- <b>[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)</b><br>
+- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)</b><br>
 <b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
