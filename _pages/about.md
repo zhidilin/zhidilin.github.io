@@ -22,7 +22,7 @@ redirect_from:
 + This is **Zhidi Lin (林志地)**. I am a Ph.D. student in computer and information engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) (main-supervisor) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao) (co-supervisor). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
 + My research interests include data-driven modelling, Bayesian learning and inference, Gaussian process, and the related applications.
 
-# 🔥 News
+# 🔥 Recent News
 - 2023.03: Joined the [BLSP Group](https://blsp-group.github.io/) led by [Prof. Feng Yin](sse.cuhk.edu.cn/faculty/yinfeng).
 - 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
 - 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
