@@ -114,7 +114,7 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
 
 - Spring 2017: Teaching Assistant, Xiamen University. Undegrad Course, Algorithm Design & Analysis. **Instructor: Prof. Defu Zhang**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
 - 2022.11: 2023 UESTC Excellent Graduates (**Top 5%**). 
 - 2022.10: UESTC Outstanding Student Candidates (**Top 1%**).
@@ -125,7 +125,7 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
 - 2021.12: Chinese College Students Math Contest, **First Prize**.
 - 2021.10: Outstanding Students Scholarship in UESTC (**Top 10%**).
 
-<!-- # 💬 Invited Talks
+# 💬 Invited Talks
 - 2022.10: **The 6th UESTC Students Development Conference.**
 - 2022.04: **2022 UESTC Students Sharing Meeting on machine learning.**
  
