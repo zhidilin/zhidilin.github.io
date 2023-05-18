@@ -94,6 +94,29 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
 * Conference Reviwer of ICML, NeurIPS, UAI, ICASSP, FUSION
 
 # 👨‍🏫 Teaching
+**Summer 2022** (The current semester):
+
+
+## Old Courses:
+- Spring 2023: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Dongdong He**
+  
+- Fall 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Feng Yin**
+  
+- Summer 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Chuan Huang**
+  
+- Spring 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
+
+- Fall 2021: Teaching Assistant, CUHK-Shenzhen. Graduate Course, CIE6133/MCE5919 Gaussian Process for Machine Learning and Signal Processing. **Instructor: Prof. Feng Yin**
+
+- Spring 2021: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
+
+- Fall 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
+
+- Spring 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
+
+- Fall 2019: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
+
+- Spring 2017: Teaching Assistant, Xiamen University. Undegrad Course, Algorithm Design & Analysis. **Instructor: Prof. Defu Zhang**
 
 # 🎖 Honors and Awards
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
