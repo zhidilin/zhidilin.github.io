@@ -22,28 +22,76 @@ redirect_from:
 + This is **Zhidi Lin (林志地)**. I am a Ph.D. student in computer and information engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) (main-supervisor) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao) (co-supervisor). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
 + My research interests include data-driven modelling, Bayesian learning and inference, Gaussian process, and the related applications.
 
-# 🔥 Recent News
-- 2023.03: Joined the [BLSP Group](https://blsp-group.github.io/) led by [Prof. Feng Yin](sse.cuhk.edu.cn/faculty/yinfeng).
-- 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
-- 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
-- 2022.08: Got the PhD offer from [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) with full scholarships. 
-- 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" has been published in *IEEE Sens. J.(IF=4.536, Q1).*
-- 2020.09: Joined the [State Key Laboratory of Electronic Thin Films and Integrated Devices](https://www.nature.com/nature-index/institution-outputs/china/state-key-laboratory-of-electronic-thin-films-and-integrated-devices-uestc/54be192a140ba09d328b4567), supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
+# 🔥 News
+- 2023.05: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been published in *IEEE ICASSP 2023.*
+- 2022.05, one paper has been accepted by [IEEE FUSION 2022](https://ieeexplore.ieee.org/abstract/document/9841347). 
+- 2022.01.05, I pass the Ph.D. Qualifying Examination and become a Ph.D. candidate.
+- 2021.05: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published in *IEEE ICASSP 2023.*
+- 2020.11.06, A 29-page review paper titled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in IEEE Open Journal of Signal Processing
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen. J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)
+[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/9755128)
 
-**Xinyu Huang**, Yuanming Wu
+**Zhidi Lin**, Lei Cheng, Feng Yin, Lexi Xu, Shuguang Cui
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/document/10095784) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
 - The detection accuracy and the false alarm rate are much lower than other effective methods.
 - We also reduced the computation complexity to $$O(n)$$.
 </div></div>
+
+## Journal
+<b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing]()</b><br>
+Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9250516>)
+
+<b>[Data-driven fault localization in distribution systems with distributed energy resources]()</b><br>
+<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
+[[MDPI Link]](<https://www.mdpi.com/1996-1073/13/1/275>)
+
+<b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources]()</b><br>
+<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9141286>)
+
+## Conference
+<b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data]()</b><br>
+Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
+( \* indicates equal contributions ).<br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/document/9841347>), [[code]](<https://github.com/richardcsuwandi/distributed-gsm>)
+
+<b>[Graph neural network for large-scale network localization]()</b><br>
+Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9414520>)
+
+<b>[An interpretable and sample efficient deep kernel for Gaussian process]()</b><br>
+Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
+[[PMLR Link]](<http://proceedings.mlr.press/v124/dai20a.html>)
+
+<b>[A flexible approach for human activity recognition based on broad learning system]()</b><br>
+<b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong. <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
+[[ACM Link]](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)
+
+<b>[Data-driven fault localization in distribution systems with distributed energy resources]()</b><br>
+<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/document/8974949>)
+
+<b>[One-class classifier based fault detection in distribution systems with distributed energy resources]()</b><br>
+<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/8646526>)
+
+<b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset]()</b><br>
+Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
+[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/8641222>)
+
+# 🏫 Services
+* Journal Reviewer of [Signal Processing, Elsevier](https://www.journals.elsevier.com/signal-processing)
+* Conference Reviwer of ICML, NeurIPS, UAI
+
+# 👨‍🏫 Teaching
 
 # 🎖 Honors and Awards
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
@@ -56,14 +104,10 @@ redirect_from:
 - 2021.12: Chinese College Students Math Contest, **First Prize**.
 - 2021.10: Outstanding Students Scholarship in UESTC (**Top 10%**).
 
-# 📖 Educations
-- 2023.06 - now :  **The Chinese University of Hong Kong, Shenzhen**, Ph.D in Computer and Information Engineering.
-- 2019.09 - 2023.06: **University of Electrronic and Technology of China**, B.Eng in Optoelectronic Science and Engineering.
-
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - 2022.10: **The 6th UESTC Students Development Conference.**
 - 2022.04: **2022 UESTC Students Sharing Meeting on machine learning.**
  
 # 💻 Internships
 - 2021.07 - 2021.08: **Big Data in Clouds Corporation**, Guiyang, China.
-- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China.
+- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China. -->
