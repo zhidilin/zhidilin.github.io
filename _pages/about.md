@@ -85,7 +85,7 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
 
 # 🏫 Services
 * Journal Reviewer of [Signal Processing, Elsevier](https://www.journals.elsevier.com/signal-processing)
-* Conference Reviwer of ICML, NeurIPS, UAI
+* Conference Reviwer of ICML, NeurIPS, UAI, ICASSP, FUSION
 
 # 👨‍🏫 Teaching
 
