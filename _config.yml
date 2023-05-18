@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhidi LIN"
-description              : "Ph.D. Candidate."
+description              : "Ph.D. Candidate, CUHK-Shenzhen"
 repository               : "zhidi-lin/zhidi-lin.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhidi LIN"
   avatar           : "images/profile.jpeg"
-  bio              : "CUHK-Shenzhen"
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
