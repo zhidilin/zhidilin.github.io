@@ -32,8 +32,9 @@ redirect_from:
 - 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
 - 2022.05: Paper entitled "[Gaussian Process Regression with Grid Spectral Mixture Kernel: Distributed Learning for Multidimensional Data](<https://ieeexplore.ieee.org/document/9841347>)" has been accepted by *IEEE FUSION 2022*. 
 - 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
-- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published in *IEEE ICASSP 2023.*
-- 2020.11.06: A **29-page** review paper entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
+- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published by *IEEE ICASSP 2023.*
+- 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
+- 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
 # 📝 Publications 
 
@@ -54,11 +55,11 @@ redirect_from:
 - <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
 Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
 
-- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
-
 - <b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/9141286>)</b><br>
 <b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
+  
+- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
+<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
 
 
 ## Conference
