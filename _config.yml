@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyu Huang"
-description              : "First Year PhD at CUHK(SZ)."
-repository               : "XinYU-Huang1/XinYU-Huang1.github.io"
+title                    : "Zhidi LIN"
+description              : "PhD Candidate CUHK(SZ)."
+repository               : "zhidi-lin/zhidi-lin.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyu Huang"
-  avatar           : "images/me.png"
+  name             : "Zhidi LIN"
+  avatar           : "images/profile.jpeg"
   bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=zh-CN"
-  email            : "xyhuang@ieee.org"
-  researchgate     : "https://www.researchgate.net/profile/Xinyu-Huang-56"
+  googlescholar    : "https://scholar.google.com/citations?user=8BmRXqMAAAAJ"
+  email            : "zhidilin@link.cuhk.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhidi-Lin"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinYu-Huang1"
+  github           : "zhidilin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "zhidi-lin" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-3125-0411"
+  orcid            : "https://orcid.org/0000-0002-6673-511X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
