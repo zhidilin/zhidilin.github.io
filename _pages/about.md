@@ -22,12 +22,18 @@ redirect_from:
 + This is **Zhidi Lin (林志地)**. I am a Ph.D. student in computer and information engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) (main-supervisor) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao) (co-supervisor). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
 + My research interests include data-driven modelling, Bayesian learning and inference, Gaussian process, and the related applications.
 
+## Miscellanies
+- <b>Languages</b> -- Mandarin (native), English (fluent), Hokkien (native)  
+- <b>Sports</b> -- Badminton, Swimming  
+- <b>Leadership/Community activities</b>  
+  * Residential Tutor, [Diligentia College](https://diligentia.cuhk.edu.cn/en/teacher-search?keywords=&alphabet=All&category=All&academic=All&class_type=All&tag=All&floor=All&page=2), CUHK-Shenzhen, China.
+
 # 🔥 News
 - 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
 - 2022.05: Paper entitled "[Gaussian Process Regression with Grid Spectral Mixture Kernel: Distributed Learning for Multidimensional Data](<https://ieeexplore.ieee.org/document/9841347>)" has been accepted by *IEEE FUSION 2022*. 
 - 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
 - 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published in *IEEE ICASSP 2023.*
-- 2020.11.06: A **29-page** review paper titled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
+- 2020.11.06: A **29-page** review paper entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
 
 # 📝 Publications 
 
