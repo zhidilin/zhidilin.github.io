@@ -132,4 +132,4 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
  
 # 💻 Internships
 - 2021.07 - 2021.08: **Big Data in Clouds Corporation**, Guiyang, China.
-- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China. -->
+- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China.  -->
