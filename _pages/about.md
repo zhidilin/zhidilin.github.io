@@ -24,14 +24,14 @@ redirect_from:
 
 # 🔥 News
 - 2023.05: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been published in *IEEE ICASSP 2023.*
-- 2022.05, one paper has been accepted by [IEEE FUSION 2022](https://ieeexplore.ieee.org/abstract/document/9841347). 
-- 2022.01.05, I pass the Ph.D. Qualifying Examination and become a Ph.D. candidate.
+- 2022.05: One paper has been accepted by [*IEEE FUSION 2022*](https://ieeexplore.ieee.org/abstract/document/9841347). 
+- 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
 - 2021.05: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published in *IEEE ICASSP 2023.*
-- 2020.11.06, A 29-page review paper titled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in IEEE Open Journal of Signal Processing
+- 2020.11.06: A **29-page** review paper titled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/9755128)
@@ -42,50 +42,42 @@ redirect_from:
 - We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
 - The detection accuracy and the false alarm rate are much lower than other effective methods.
 - We also reduced the computation complexity to $$O(n)$$.
-</div></div>
+</div></div> -->
 
 ## Journal
-<b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing]()</b><br>
+<b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
 Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9250516>)
 
-<b>[Data-driven fault localization in distribution systems with distributed energy resources]()</b><br>
+<b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
 <b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
-[[MDPI Link]](<https://www.mdpi.com/1996-1073/13/1/275>)
 
-<b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources]()</b><br>
+<b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/9141286>)</b><br>
 <b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9141286>)
+
 
 ## Conference
-<b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data]()</b><br>
+<b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>), [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
 ( \* indicates equal contributions ).<br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/document/9841347>), [[code]](<https://github.com/richardcsuwandi/distributed-gsm>)
 
-<b>[Graph neural network for large-scale network localization]()</b><br>
+<b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)</b><br>
 Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/9414520>)
 
-<b>[An interpretable and sample efficient deep kernel for Gaussian process]()</b><br>
+<b>[An interpretable and sample efficient deep kernel for Gaussian process](<http://proceedings.mlr.press/v124/dai20a.html>)</b><br>
 Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
-[[PMLR Link]](<http://proceedings.mlr.press/v124/dai20a.html>)
 
-<b>[A flexible approach for human activity recognition based on broad learning system]()</b><br>
+<b>[A flexible approach for human activity recognition based on broad learning system](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)</b><br>
 <b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong. <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
-[[ACM Link]](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)
 
-<b>[Data-driven fault localization in distribution systems with distributed energy resources]()</b><br>
+
+<b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/document/8974949>)</b><br>
 <b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/document/8974949>)
 
-<b>[One-class classifier based fault detection in distribution systems with distributed energy resources]()</b><br>
+<b>[One-class classifier based fault detection in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/8646526>)</b><br>
 <b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/8646526>)
 
-<b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset]()</b><br>
+<b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
 Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
-[[IEEE Link]](<https://ieeexplore.ieee.org/abstract/document/8641222>)
 
 # 🏫 Services
 * Journal Reviewer of [Signal Processing, Elsevier](https://www.journals.elsevier.com/signal-processing)
