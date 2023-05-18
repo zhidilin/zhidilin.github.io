@@ -94,10 +94,6 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
 * Conference Reviwer of ICML, NeurIPS, UAI, ICASSP, FUSION
 
 # 👨‍🏫 Teaching
-**Summer 2022** (The current semester):
-
-
-## Old Courses:
 - Spring 2023: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Dongdong He**
   
 - Fall 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Feng Yin**
