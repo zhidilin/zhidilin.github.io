@@ -37,6 +37,7 @@ redirect_from:
 - 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
 # 💻 Projects
+- coming soon
 
 # 📚 Publications 
 
