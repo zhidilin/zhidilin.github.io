@@ -32,7 +32,7 @@ redirect_from:
 - 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
 - 2022.05: Paper entitled "[Gaussian Process Regression with Grid Spectral Mixture Kernel: Distributed Learning for Multidimensional Data](<https://ieeexplore.ieee.org/document/9841347>)" has been accepted by *IEEE FUSION 2022*. 
 - 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
-- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published by *IEEE ICASSP 2023.*
+- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been published by *IEEE ICASSP 2021.*
 - 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
 - 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
