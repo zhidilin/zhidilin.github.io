@@ -66,13 +66,13 @@ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis
 
 
 ## Conference
-- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)</b> [[code]](https://github.com/zhidilin/gpssmProj)<br>
+- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
 <b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
 
-- <b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)</b><br>
+- <b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)  [[code]](<https://github.com/Yanzongzi/GNN-For-localization>)</b><br>
 Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
 
 - <b>[An interpretable and sample efficient deep kernel for Gaussian process](<http://proceedings.mlr.press/v124/dai20a.html>)</b><br>
