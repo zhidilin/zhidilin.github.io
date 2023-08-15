@@ -66,7 +66,7 @@ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis
 
 
 ## Conference
-- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)</b><br>
+- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)</b> [code](https://github.com/zhidilin/gpssmProj)<br>
 <b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
